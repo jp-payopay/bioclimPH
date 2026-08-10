@@ -2,7 +2,7 @@
 
 19 bioclimatic variable (BCV) layers for the Philippine archipelago, derived from PAGASA CLIMAP v2.0 monthly rainfall and temperature grids (2001–2020).
 
-> **Status: in preparation.** This dataset is not yet finalized. BIO1 is currently corrupted in this release (placeholder/export error) and should not be used until replaced. A versioned, citable release is planned via Zenodo once validation is complete.
+> **Status: in preparation.** This dataset is not yet finalized. BIO3 and BIO4 is currently corrupted in this release (placeholder/export error) and should not be used until replaced. A versioned, citable release is planned via Zenodo once validation is complete.
 
 ## Overview
 
