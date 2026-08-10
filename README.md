@@ -16,7 +16,7 @@
 | Spatial resolution | 0.01° (~1.1 km at the equator) |
 | Extent | 114.275–126.605°E, 4.585–21.125°N |
 | Raster dimensions | 1233 × 1654 pixels |
-| Format | GeoTIFF, single band per variable, float32 (BIO1 currently float16 — see Known Issues) |
+| Format | GeoTIFF, single band per variable, float32 |
 
 ## Variables
 
